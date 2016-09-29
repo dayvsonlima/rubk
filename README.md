@@ -1,9 +1,12 @@
-# Opal on node, the examples…
+# Rubk
 
-start the chat with:
-
+## Compile app
 ```bash
-opal-node chat.rb
+opal --include . -c app.rb > app.js
 ```
 
-enjoy ;)
+## Execute development enviroment
+```bash
+nodemon app.js
+```
+
