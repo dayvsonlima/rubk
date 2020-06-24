@@ -9,7 +9,7 @@ GEM
       sprockets (~> 3.1)
       tilt (>= 1.4)
     opal-native (0.0.4.2)
-    rack (2.0.1)
+    rack (2.2.3)
     sourcemap (0.1.1)
     sprockets (3.7.0)
       concurrent-ruby (~> 1.0)
